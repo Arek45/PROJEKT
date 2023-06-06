@@ -1,7 +1,7 @@
 module Stale where
 import Graphics.Gloss.Interface.Pure.Game
 
-
+--ZMIANA!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!----
 --ogolne
 
 trybWyswietlania :: Display
