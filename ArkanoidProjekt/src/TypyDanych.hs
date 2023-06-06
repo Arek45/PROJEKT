@@ -6,7 +6,7 @@ import Graphics.Gloss.Interface.Pure.Game
 
 import Stale
 
-
+---ZMIANA 2---
 data StatusGry =
     Nieukonczona | Wygrana | Przegrana  deriving (Eq, Show)
 
